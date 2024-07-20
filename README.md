@@ -6,7 +6,7 @@ Welcome to my humble project, a little tribute to the world of fashion that I ad
 
 ## Project Overview
 
-This project dives deep into the world of Amazon fashion, analyzing sales and product data using the magical powers of Power BI. Whether you're a data nerd or a fashion aficionado, there's something here for you!
+This project dives deep into the world of Amazon fashion, analysing sales and product data using the magical powers of Power BI. Whether you're a data nerd or a fashion aficionado, there's something here for you!
 
 ## What's Inside
 
