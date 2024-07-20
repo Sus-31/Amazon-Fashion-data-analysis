@@ -14,7 +14,7 @@ This project dives deep into the world of Amazon fashion, analyzing sales and pr
 - **Total Sales:** See the grand total and trends over time.
 - **Regional Insights:** Discover where fashion is trending the most.
 - **Top Categories:** Find out which items are flying off the virtual shelves.
-
+- **Sales Trends for the Quarter:** Yes that beautiful line that we want to see going higher.
 ### Products Dashboard 👗
 - **Top Rated Categories:** A detailed look at the variety of products available.
 - **Best selling Products:** List of popular and top-performing Products.
