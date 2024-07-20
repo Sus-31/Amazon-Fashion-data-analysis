@@ -22,8 +22,8 @@ This project dives deep into the world of Amazon fashion, analyzing sales and pr
 
 Check out a sneak peek of the dashboards below:
 
-![Dashboard Preview](path/to/your/image.png)
-![Dashboard Preview](path/to/your/image.png)
+![Dashboard Preview](https://github.com/Sus-31/Amazon-Fashion-data-analysis/blob/main/Screenshot-Sales.png)
+![Dashboard Preview](https://github.com/Sus-31/Amazon-Fashion-data-analysis/blob/main/Screenshot-Products.png)
 
 ## Data Source
 
@@ -35,7 +35,9 @@ You can get your hands on it right here:
 
 Ready to dive deeper? Here's the full analysis report, complete with all the juicy details:
 
-[Power BI Analysis Report](link-to-your-report)
+[Power BI Analysis Report](https://github.com/Sus-31/Amazon-Fashion-data-analysis/blob/main/Amazon1.pbix)
+[Power BI Analysis Report](https://github.com/Sus-31/Amazon-Fashion-data-analysis/blob/main/Amazon%20Fashion%20Data%20Analysis%20Report.docx)
+Download it, open it on your system and enjoy !
 
 ## Let's Connect!
 
