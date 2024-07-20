@@ -2,7 +2,7 @@
 
 Hey there, fashionistas! 👠
 
-Welcome to my humble project, a little tribute to the world of fashion that I adore so much. While I can't sew a dress or design a pair of killer heels, I did something a bit more... data-driven! 📊
+Welcome to my humble project, a little tribute to the world of fashion that I adore so much. While I can't sew a three-piece suit or design a pair of killer heels, I did something a bit more... data-driven! 📊
 
 ## Project Overview
 
